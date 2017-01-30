@@ -1,0 +1,21 @@
+{
+    "name": "lookfeel/lfcms-blog",
+    "description": "LFCMS博客模块",
+    "type": "lfcms-module",
+    "homepage": "http://lookfeel.co/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "terranc",
+            "email": "terran.chao@lookfeel.co"
+        }
+    ],
+    "require": {
+        "lookfeel/lfcms-manage": "*"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "cms-module": "blog",
+        "cms-file": "common.php"
+    }
+}
