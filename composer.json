@@ -1,5 +1,5 @@
 {
-    "name": "lookfeel/lfcms-blog",
+    "name": "lookfeel/lfcms-article",
     "description": "LFCMS博客模块",
     "type": "lfcms-module",
     "homepage": "http://lookfeel.co/",
@@ -15,7 +15,7 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "cms-module": "blog",
+        "cms-module": "article",
         "cms-file": "common.php"
     }
 }
